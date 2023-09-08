@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: six_dof_spatial_manipulator
+    relative_path: urdf/six_dof_spatial_manipulator.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/six_dof_spatial_manipulator.srdf
+  CONFIG:
+    author_name: cb
+    author_email: chinmoybiswas01.cb@gmail.com
+    generated_timestamp: 1693651851

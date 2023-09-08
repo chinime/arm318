@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libsix_dof_spatial_manipulator_five_dof_planning_group_moveit_ikfast_plugin">
+  <class name="six_dof_spatial_manipulator_five_dof_planning_group/IKFastKinematicsPlugin" type="six_dof_spatial_manipulator_five_dof_planning_group::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics of six_dof_spatial_manipulator five_dof_planning_group</description>
+  </class>
+</library>
